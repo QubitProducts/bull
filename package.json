@@ -1,5 +1,5 @@
 {
-  "name": "bull",
+  "name": "@qutics/bull",
   "version": "2.1.0",
   "description": "Job manager",
   "main": "index.js",
